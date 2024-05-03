@@ -1,4 +1,6 @@
-import java.util.*;
+package DFS;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Dfs {
     static boolean[] visited = new boolean[9];
